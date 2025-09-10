@@ -1,4 +1,4 @@
-.
+
 # StegoTool
 
 A versatile and secure Python-based steganography application designed to hide files and messages inside images. Choose between two powerful methods (**LSB** via `stegano` or **Steghide**) and add an optional layer of **AES encryption** for maximum security.
